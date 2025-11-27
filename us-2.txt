@@ -1,0 +1,13 @@
+El Scrum Master es el facilitador del equipo Scrum.Su función principal es asegurarse de que el equipo siga correctamente la metodología Scrum y pueda trabajar sin obstáculo.
+el rol principal es el de produc owner es el encargado de liderar. definir que se hace por que si no hay alguien que defina necesidades 
+prioridades y criterios el desarrollo no puede comenzar ni  avanzar.
+developer.
+artefactos.
+produc backlog.
+spritn backlog
+incremento.
+
+las ceremonias:
+spritn plannig.
+dayli scrum
+sprint review
