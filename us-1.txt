@@ -1,0 +1,2 @@
+requisitos funcionales: debe cumplir reglas por ejemplo empresesariales y funciones administrativas.
+no funcionales: incluyen, seguridad, acceso, almacenaje, configuracion,actuacion.
